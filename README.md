@@ -47,6 +47,30 @@ Cons:
 
 Polygon Network has been an innovation on the Ethereum blockchain. The network has made it possible for protocols to scale up the Ethereum blockchain, increasing the speed of these protocols and reducing the cost. Ugrades are planned for 2022 that should help the network grow and their team has shown real progress towards their goals. 
 
+## Other notes
+
+- QuickSwap — fork of the Uniswap protocol that is powered by the Polygon network. This means that QuickSwap is a decentralized exchange or DEX. As Polygon offers lower transaction fees, it allows QuickSwap to enable token swaps at a lower cost than some competitors. 
+- Polygon Plasma: A layer-2 solution that provides a framework for building dApps off-chain, benefiting from Ethereum’s secure infrastructure.
+- MATIC token  -used for governance, staking, and gas fees.
+- Biggest rivals are Cosmos Network’s Stargate and Polkadot.
+- Developers can launch their own sovereign blockchains and decentralized applications, empowered by a set of advanced modules that enable the deployment of interconnected blockchain networks, with easily customizable functionality.
+- Inherently more secure
+- ZK Rollups: A layer-2 solution based on zero-knowledge proof, meaning that it executes the transactions off-chain, only submitting the proof of validity to the main Ethereum chain.
+- Optimistic Rollups: A layer 2 solution based on fraud proofs, that also executes the transactions off-chain, only submitting proof of fraud to the main blockchain if an invalid block is discovered. 
+- Shared Security Chains: Blockchains based on security as a service, meaning that their validation service is provided by a shared pool of PoS validators, managed on the Ethereum main chain.
+- Security protocol is optional, meaning that blockchains can retain their self-sovereignty
+- Neither ZK-rollups nor optimistic rollups have been launched on the network, with Plasma currently the only scaling solution available on Polygon.
+- Polygon is gonna integrate ZK rollup from hermez into their network. The TPS is about 2000. When ETH 2.0 sharding is combined with rollups, the TPS should be around 100K. - reddit post
+- User Experience Smooth UX and developer abstraction from mainchain to Polygon chain; native mobile apps and SDK with WalletConnect support
+- Security Polygon chain operators are themselves stakers in the PoS system
+- Polygon Advice for Developers and Users:
+	- Implement bot prevention in certain UIs or apps.
+	- Users and developers are advised to run their very own node.
+	- MATIC recommends using an RPC aggregator or other dedicated RCP accounts.
+	- Users and devs are advised to use retry logic for certain transactions through services like Infura's own ITX.
+	
+![image](https://user-images.githubusercontent.com/49690101/155844679-0f815431-4534-461f-ace5-0ff0ed9b3d41.png)
+
 ## Sources
 
 - https://polygon.technology/
